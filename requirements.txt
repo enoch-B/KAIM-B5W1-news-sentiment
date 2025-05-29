@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+textblob
+wordcloud
+pytest
+yfinance
+pynance
+ta-lib
