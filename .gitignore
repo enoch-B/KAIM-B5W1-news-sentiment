@@ -1,8 +1,6 @@
-<<<<<<< task-1
 data/
 __pycache__/
 *.py[cod]
 *.ipynb_checkpoints/
 .env
 .DS_Store
-=======
