@@ -86,12 +86,6 @@ The `publication_date` column must be parseable as a datetime.
 
    The notebook includes commands to download NLTK stopwords and tokenizer models, but you can pre-download manually:
 
-   ```python
-   import nltk
-   nltk.download('punkt')
-   nltk.download('stopwords')
-   ```
-
 5. **Place your dataset**
 
    Ensure your dataset CSV is placed in `data/articles.csv` or update the path in the notebook.
@@ -148,13 +142,4 @@ Feel free to raise issues or submit pull requests for improvements. Suggestions 
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
-```
-
----
-
-Just save this text as `README.md` and put it in your repo! If you want me to generate the file for you or help with anything else, let me know.
-```
